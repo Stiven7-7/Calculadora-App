@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="calcular"
-                android:text="<"
+                android:text="C"
                 android:textSize="34sp"
                 app:backgroundTint="#1A237E" />
 
@@ -99,7 +99,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="calcular"
-                android:text="x"
+                android:text="*"
                 android:textSize="34sp"
                 app:backgroundTint="#1A237E" />
         </TableRow>
